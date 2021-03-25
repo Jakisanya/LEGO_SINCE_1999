@@ -1,2 +1,2 @@
 # LEGO_SINCE_1999
-Exploring the History of Lego
+Exploratory Data Analysis (Project 1): Exploring the History of Lego
